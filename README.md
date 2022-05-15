@@ -11,4 +11,8 @@ A website that shows off my skills as a developer with a portfolio
 https://georgeneves.github.io/module_2_project/
 
 ## Contribution
+<<<<<<< HEAD
 Made with ❤️ by George
+=======
+Made with ❤️ by George
+>>>>>>> 0f804d5 (please help im so tired)
