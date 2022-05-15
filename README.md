@@ -1,7 +1,7 @@
 # module_2_project
 
 ## Purpose
-A website that shows off my skills with as a portfolio
+A website that shows off my skills as a developer with a portfolio
 
 ## Built With
 * HTML
