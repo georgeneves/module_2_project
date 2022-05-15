@@ -102,6 +102,15 @@ section {
     padding: 60px;
 }
 
+h2 {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 40px;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    text-align: center;
+}
+
 /*hero start*/
 .hero {
     background-color: var(--secondary-color);
@@ -117,7 +126,7 @@ section {
   
 .hero-cta {
     width: 35%;
-    text-align: right;
+    text-align: center;
     margin: 3.5%;
     color: #fff;
     font-size: 18px;
@@ -129,4 +138,59 @@ section {
     font-style: italic;
     font-size: 55px;
     color: var(--primary-color);
+}
+
+.hero img {
+    border-radius: 15px;
+    width: 20%;
+}
+
+/*about me*/
+.about-me {
+    background: var(--secondary-color);
+    text-align: center;
+}
+/*about me end*/
+
+/*portfolio begin*/
+.portfolio {
+    background: var(--secondary-color);
+}
+
+.projects {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+  
+.project {
+    margin: 20px;
+    flex: 1;
+}
+  
+.project img {
+    position: relative;
+    display: flex;
+    flex: 1;
+    text-align: center;
+}
+
+/* UTILITIES */
+.text-left {
+    text-align: left;
+}
+  
+.text-right {
+    text-align: right;
+}
+  
+.flex-row {
+    display: flex;
+}
+
+.footer {
+    color: var(--primary-color)
 }
